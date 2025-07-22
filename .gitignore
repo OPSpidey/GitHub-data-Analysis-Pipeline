@@ -1,0 +1,12 @@
+myenv/
+node_modules/
+.vscode/
+terraforms/.terraform.lock.hcl
+terraforms/.terraform
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+terraforms/terraform.tfstate
+package-lock.json
+
